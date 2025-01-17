@@ -3,11 +3,12 @@
 This repo serves as a hub for the action recognition course.
 
 > [!WARNING]
-> Tough you can run the notebooks locally, the labs are meant to be execute on google colab !
+> Though you can run the notebooks locally, the labs are meant to be executed on google colab !
 
-Before starting, make sure you have access to a google colab account. You can have limited access to T4 GPUs for free which will be enough for the course.
+Before starting, make sure you have access to a google colab account.
+You can have limited access to T4 GPUs for free which should be enough for the course.
 
-It cointains :
+It contains :
 
 - The slides
 - Lab1 (~2h)
