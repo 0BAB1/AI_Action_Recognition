@@ -1,0 +1,7 @@
+kinetics400/
+kinetics_samples/
+sample_data/
+temporal-shift-module/
+TSM_*
+archery.mp4
+*.json
