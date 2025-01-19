@@ -16,7 +16,7 @@ It contains :
   - Using slowfast
   - Using TSM
   - Using TSN
-  - (Live video feed demo ?)
+  - Bonus : a live video feed demo
 - Lab2 (~2h)
   - Gathering custom data
   - Creating a dataset & dataloader
